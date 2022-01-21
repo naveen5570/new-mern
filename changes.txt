@@ -1,0 +1,15 @@
+age, gender remove
+
+upload your photo to upload your id proof
+
+country to detect from ip and dropdown to show - popup to create we detected your country or change to us
+
+Registered address
+
+office address
+
+please select radius which you can cater to
+
+is your registered address different from office address. if same autofill in office
+
+upload your professional card
